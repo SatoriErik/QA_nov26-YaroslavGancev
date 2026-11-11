@@ -1,4 +1,3 @@
-cat << 'EOF' > sign_up.md
 Registration new user allows with three required field
 Username should not be empty
 "@" key is obligatory to enter
